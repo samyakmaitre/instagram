@@ -1,13 +1,17 @@
-Overview
+# To-Do List Project
+
+## Overview
+
 This project is a simple and intuitive to-do list application that helps you organize and manage your tasks effectively. Whether you're a student, professional, or anyone with a busy schedule, this to-do list will assist you in keeping track of your daily, weekly, and monthly tasks.
 
-Features
-User-friendly Interface: The application provides a clean and easy-to-navigate interface, making it simple for users to add, edit, and delete tasks.
+## Features
 
-Task Management: Add new tasks with details such as due dates, priority levels, and additional notes. Mark tasks as completed to keep your list organized.
+- **User-friendly Interface:** The application provides a clean and easy-to-navigate interface, making it simple for users to add, edit, and delete tasks.
 
-Sorting and Filtering: Sort tasks based on due dates, priority, or alphabetical order. Filter tasks to view specific categories or deadlines.
+- **Task Management:** Add new tasks with details such as due dates, priority levels, and additional notes. Mark tasks as completed to keep your list organized.
 
-Reminders and Notifications: Set reminders for important tasks and receive notifications to stay on top of your schedule.
+- **Sorting and Filtering:** Sort tasks based on due dates, priority, or alphabetical order. Filter tasks to view specific categories or deadlines.
 
-Customization: Personalize your to-do list with themes, color-coding, and other customization options to make it visually appealing and tailored to your preferences.
+- **Reminders and Notifications:** Set reminders for important tasks and receive notifications to stay on top of your schedule.
+
+- **Customization:** Personalize your to-do list with themes, color-coding, and other customization options to make it visually appealing and tailored to your preferences.
