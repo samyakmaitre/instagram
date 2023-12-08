@@ -15,5 +15,28 @@
         <ul id="list"></ul>
       </div>      
     </div>
+    <script>
+      let inputBx = document.querySelector('#inputBx');
+      let list = document.querySelector('#list');
+
+      inputBx.addEventListener("keyup", function(event){
+        if (event.key === " ") {
+          this.value = "";
+        }
+      })
+
+      let addItem = () => {
+        let listItem = document.createElement("li");
+        listItem.innerHTML = `${inputBx.value}<i></i>`;
+        list.appendChild(listItem);
+      }
+      inputBx.addEventListener("keyup", function(event){
+        if (event.key === "Enter") {
+          addItem();
+        }
+      });
+
+
+    </script>
 </body>
 </html>
