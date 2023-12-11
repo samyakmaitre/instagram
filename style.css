@@ -58,7 +58,7 @@ h2{
     align-items: center;
     background: rgb(74, 155, 235);
     margin: 15px 0px;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 45px;
     min-height: 45px;
     cursor: pointer;
     border-radius: 22.5px;
@@ -69,7 +69,7 @@ h2{
 
 .box li i{
     position: absolute;
-    right: -40px;
+    right: 15px;
     width: 30px;
     height: 30px;
     display: flex;
@@ -97,4 +97,29 @@ h2{
     height: 2px;
     background: white;
     transform: rotate(-45deg);
+}
+
+.box li::before{
+    content: '';
+    position: absolute;
+    left: 8px;
+    width: 30px;
+    height: 30px;
+    background: #2f363e;
+    border-radius: 50%;
+}
+
+
+.box li.done{
+    background: #607d8b;
+}
+
+.box li.done:after{
+    content: '';
+    position: absolute;
+    left: 16px;
+    width: 12px;
+    height: 6px;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #fff;
 }
