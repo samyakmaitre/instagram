@@ -17,6 +17,7 @@ body{
     background-image: url(bg.png);
     /* background-repeat: no-repeat; */
     background-size: cover;
+    padding: 250px 0px;
 }
 .box {
     position: absolute;
@@ -37,7 +38,6 @@ body{
         inset 5px 5px 20px rgba(255, 255, 255, 0.2),
         inset -5px -5px 15px rgba(0, 0, 0, 0.75);
 }
-
 
 
 h2{
@@ -121,6 +121,7 @@ h2{
 
 .box li.done{
     background: #607d8b;
+    
 }
 
 .box li.done:after{
@@ -132,7 +133,6 @@ h2{
     border-left: 2px solid #fff;
     border-bottom: 2px solid #fff;
 }
-
 
 @media (max-width: 768px) {
     .box {
