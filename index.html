@@ -35,6 +35,10 @@
         listItem.addEventListener("click", function(){
           this.classList.toogle('done');
         })
+
+        listItem.querySelector("i").addEventListener("click",function(){
+          listItem.remove();
+        })
         
         list.appendChild(listItem);
       };
