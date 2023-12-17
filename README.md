@@ -1,5 +1,6 @@
 # To-Do List Project
-https://github.com/samyakmaitre/to_do_list/assets/130790017/c50feed6-1778-4699-aa67-023d29072a76
+
+https://github.com/samyakmaitre/to_do_list/assets/130790017/6c19e394-670d-4593-9ae4-48f75dba8952
 
 # Features <br>
 User-Friendly Interface<br>
