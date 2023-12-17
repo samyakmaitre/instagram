@@ -33,8 +33,8 @@
         listItem.innerHTML = `${inputBx.value}<i></i>`;
         
         listItem.addEventListener("click", function(){
-          this.classList.toogle('done');
-        })
+  this.classList.toggle('done');
+});
 
         listItem.querySelector("i").addEventListener("click",function(){
           listItem.remove();
