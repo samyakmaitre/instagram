@@ -15,15 +15,15 @@ Remove Tasks<br>
 Each task comes equipped with a delete icon. Simply click on the icon to remove a task from the list, keeping your workspace clutter-free.<br><br>
 
 # How to Use <br>
-Open the application in your preferred web browser.<br>
-Enter your task in the input field.<br>
-Press "Enter" to add the task to the list.<br>
-Click on a task to mark it as completed.<br>
-Utilize the delete icon to remove tasks as needed.<br><br>
-Technologies Used
-HTML: Forms the structure of the web page.
-CSS: Provides styling and layout for a visually appealing experience.
-JavaScript: Implements dynamic functionality for adding, marking, and removing tasks.
+1. Open the application in your preferred web browser.<br>
+2. Enter your task in the input field.<br>
+3. Press "Enter" to add the task to the list.<br>
+4. Click on a task to mark it as completed.<br>
+5. Utilize the delete icon to remove tasks as needed.<br><br>
+# Technologies Used
+<br>HTML: Forms the structure of the web page.
+<br>CSS: Provides styling and layout for a visually appealing experience.
+<br>JavaScript: Implements dynamic functionality for adding, marking, and removing tasks.
 <br><br> 
 # Getting Started
 To begin using the To-Do List web application, follow these simple steps:<br>
