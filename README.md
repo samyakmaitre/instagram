@@ -29,9 +29,9 @@ Each task comes equipped with a delete icon. Simply click on the icon to remove 
 To begin using the To-Do List web application, follow these simple steps:<br>
 
 bash <br>
-_Copy code_
-git clone https://github.com/samyakmaitre/to_do_list.git
-cd to-do-list
+Copy code <br>
+_git clone https://github.com/samyakmaitre/to_do_list.git
+cd to-do-list_ <br>
 Open the index.html file in your web browser to start managing your tasks seamlessly.
 <br><br>
 # Contributing <br>
